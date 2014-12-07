@@ -1,0 +1,5 @@
+This application allows you to store login information for your online accounts. MyKeychain allows you to store your account's username, password, security question's answer and linked email address. 
+
+MyKeychain Full allows you to store an unlimited number of accounts. Viewing the 'Contact Developer' page allows you to connect directly to the developer and find information on new updates for this app and others.
+
+MyKeychain suggested that you create a secure password for this application.
